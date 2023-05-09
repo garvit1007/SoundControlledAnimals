@@ -1,7 +1,7 @@
 body
 {
     font-family: 'Montserrat', sans-serif;
-    background: #f5dbda;
+    background: peachpuff;
 }
 
 .header_div
@@ -34,7 +34,7 @@ body
     width: 100%;
     font-size: 25px;
     font-weight: bold;
-    background-color: blanchedalmond;
+    background-color: lavenderblush;
     line-height: 3;
-    text-shadow: 10px 10px 10px red;
+    text-shadow: 5px 5px 5px silver;
 }
