@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background: #f5dbda;
+}
+
+.header_div
+{
+    background: white;
+    color: bisque;
+}
+
+.header_div p{
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    line-height: 3;
+    text-shadow: 10px 10px 10px red;
+}
